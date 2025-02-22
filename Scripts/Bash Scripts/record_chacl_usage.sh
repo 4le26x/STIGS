@@ -10,7 +10,7 @@
 # Last Modified: 2025-02-21
 # Version      : 1.0
 # CVEs         : N/A
-# STIG-ID      : LINUX-AUDIT-000130
+# STIG-ID      : 6.3.3.17 (Ensure successful and unsuccessful attempts to use the chacl command are recorded)
 # =============================================================================
 # TESTED ON:
 # - Date(s) Tested  : 2025-02-21
