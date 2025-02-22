@@ -10,7 +10,7 @@
 # Last Modified: 2025-02-21
 # Version      : 1.0
 # CVEs         : N/A
-# STIG-ID      : LINUX-AUDIT-000131
+# STIG-ID      : 6.3.3.11 (Ensure session initiation information is collected)
 # =============================================================================
 # TESTED ON:
 # - Date(s) Tested  : 2025-02-21
