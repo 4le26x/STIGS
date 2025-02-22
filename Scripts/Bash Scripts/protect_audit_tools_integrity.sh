@@ -10,7 +10,7 @@
 # Last Modified: 2025-02-21
 # Version      : 1.0
 # CVEs         : N/A
-# STIG-ID      : LINUX-AUDIT-000132
+# STIG-ID      : 6.1.3 (Ensure cryptographic mechanisms are used to protect the integrity of audit tools)
 # =============================================================================
 # TESTED ON:
 # - Date(s) Tested  : 2025-02-21
