@@ -11,7 +11,7 @@
 # Last Modified: 2025-02-21
 # Version      : 1.0
 # CVEs         : N/A
-# STIG-ID      : LINUX-AUDIT-000128
+# STIG-ID      : 6.3.3.14 (Ensure events that modify the system's Mandatory Access Controls are collected)
 # =============================================================================
 # TESTED ON:
 # - Date(s) Tested  : 2025-02-21
