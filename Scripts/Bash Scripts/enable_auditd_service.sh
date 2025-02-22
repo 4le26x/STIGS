@@ -10,7 +10,7 @@
 # Last Modified: 2025-02-21
 # Version      : 1.0
 # CVEs         : N/A
-# STIG-ID      : LINUX-AUDIT-000126
+# STIG-ID      : 6.3.1.2 (Ensure auditd service is enabled and active)
 # =============================================================================
 # TESTED ON:
 # - Date(s) Tested  : 2025-02-21
