@@ -10,7 +10,7 @@
 # Last Modified: 2025-02-21
 # Version      : 1.0
 # CVEs         : N/A
-# STIG-ID      : LINUX-AUDIT-000125
+# STIG-ID      : 6.3.4.10 (Ensure audit tools group owner is configured)
 # =============================================================================
 # TESTED ON:
 # - Date(s) Tested  : 2025-02-21
